@@ -25,12 +25,12 @@
 
 | 版本 | 安装包 | 题量 |
 |---|---|---|
-| 一年级 | `xueba-grade1-v2.0.apk` | 11481 道 |
-| 二年级 | `xueba-grade2-v2.0.apk` | 10484 道 |
-| 三年级 | `xueba-grade3-v2.0.apk` | 10133 道 |
-| 四年级 | `xueba-grade4-v2.0.apk` | 12672 道 |
-| 五年级 | `xueba-grade5-v2.0.apk` | 12999 道 |
-| 六年级 | `xueba-grade6-v2.0.apk` | 10021 道 |
+| 一年级 | [xueba-grade1-v2.1.apk](https://github.com/cnlyking/xueba/releases/download/v2.1/xueba-grade1-v2.1.apk) | 11481 道 |
+| 二年级 | [xueba-grade2-v2.1.apk](https://github.com/cnlyking/xueba/releases/download/v2.1/xueba-grade2-v2.1.apk) | 10484 道 |
+| 三年级 | [xueba-grade3-v2.1.apk](https://github.com/cnlyking/xueba/releases/download/v2.1/xueba-grade3-v2.1.apk) | 10133 道 |
+| 四年级 | [xueba-grade4-v2.1.apk](https://github.com/cnlyking/xueba/releases/download/v2.1/xueba-grade4-v2.1.apk) | 12672 道 |
+| 五年级 | [xueba-grade5-v2.1.apk](https://github.com/cnlyking/xueba/releases/download/v2.1/xueba-grade5-v2.1.apk) | 12999 道 |
+| 六年级 | [xueba-grade6-v2.1.apk](https://github.com/cnlyking/xueba/releases/download/v2.1/xueba-grade6-v2.1.apk) | 10021 道 |
 
 题目构成：数学为主（四则运算、单位换算、图形面积体积、分数小数百分数、应用题等，答案全部按公式计算生成），另含语文（反义词、近义词、成语释义、古诗接句、量词、标点、修辞、课文作者）和英语（单词中英互译、复数、be 动词、介词、时态、疑问词、日常对话）。一、二年级按教材进度不含英语。
 
